@@ -1,0 +1,11 @@
+D:\SET_lvl6\BI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SET_lvl6\BI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SET_lvl6\BI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SET_lvl6\BI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
